@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="flag">🚩</string>
+    <string name="bomb">💣</string>
+</resources>
